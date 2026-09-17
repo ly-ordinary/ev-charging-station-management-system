@@ -1,0 +1,5 @@
+name: local-dev
+variables:
+  - name: baseUrl
+    value: http://localhost:6663/api
+    description: base root url
